@@ -86,9 +86,6 @@ npm test
 # Ejecutar pruebas con Karma
 npm run test:karma
 
-## Licencia
-
-Este proyecto fue desarrollado como parte de un proyecto académico.
 
 
 **¡Descubre la frescura del campo con HuertoHogar!**
